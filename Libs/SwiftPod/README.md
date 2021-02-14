@@ -22,7 +22,7 @@ pod 'SwiftPod'
 
 ## Author
 
-skyylex, yury.lapitsky@tomtom.com
+skyylex, yury.lapitsky@gmail.com
 
 ## License
 

@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/skyylex/SwiftPod'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT'}
-  s.author           = { 'skyylex' => 'yury.lapitsky@tomtom.com' }
+  s.author           = { 'skyylex' => 'yury.lapitsky@gmail.com' }
   s.source           = { :git => 'https://github.com/skyylex/SwiftPod.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
