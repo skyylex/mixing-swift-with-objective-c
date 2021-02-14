@@ -10,7 +10,7 @@ Official documentation: https://developer.apple.com/documentation/swift/imported
 
 > To import a set of Objective-C files into Swift code within **the same app target**, you rely on an Objective-C bridging header file to expose those files to Swift.
 
-- <unknown>:0: error: using bridging headers with framework targets is unsupported - https://developer.apple.com/forums/thread/10419
+- `<unknown>:0: error: using bridging headers with framework targets is unsupported` - https://developer.apple.com/forums/thread/10419
 - Include Pod's Bridging-Header to Build Settings of Project's Target not working - https://github.com/CocoaPods/CocoaPods/issues/3639
   
 ### Umbrella header
