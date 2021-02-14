@@ -22,3 +22,5 @@ Official documentation: https://developer.apple.com/documentation/swift/imported
 ### Custom modulemap in Cocoapod
 
 > [!] Using Swift static libraries with custom module maps is currently not supported. Please build `MixedPod` as a framework or remove the custom module map.
+
+- `use_frameworks! :linkage => :static` in Podfile makes possible to use custom module map
