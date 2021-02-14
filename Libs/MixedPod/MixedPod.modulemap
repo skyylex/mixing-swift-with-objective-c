@@ -1,0 +1,6 @@
+module MixedPod {
+  umbrella header ""
+  
+  export *
+  module * { export * }
+}
