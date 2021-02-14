@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		64B77A3F25D9349000A26E04 /* Dummy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B77A3E25D9349000A26E04 /* Dummy.swift */; };
 		64D481EE25D92BC80010E6BE /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 64D481ED25D92BC80010E6BE /* AppDelegate.m */; };
 		64D481F125D92BC80010E6BE /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 64D481F025D92BC80010E6BE /* SceneDelegate.m */; };
 		64D481F425D92BC80010E6BE /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 64D481F325D92BC80010E6BE /* ViewController.m */; };
@@ -18,6 +19,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		64B77A3D25D9349000A26E04 /* mixing-swift-with-objc-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "mixing-swift-with-objc-Bridging-Header.h"; sourceTree = "<group>"; };
+		64B77A3E25D9349000A26E04 /* Dummy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dummy.swift; sourceTree = "<group>"; };
 		64D481E925D92BC80010E6BE /* mixing-swift-with-objc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "mixing-swift-with-objc.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		64D481EC25D92BC80010E6BE /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		64D481ED25D92BC80010E6BE /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -53,7 +56,6 @@
 				DB265B2461AD1EA6C06F67CE /* Pods-mixing-swift-with-objc.debug.xcconfig */,
 				EFC16B0A79363EEE357C71FF /* Pods-mixing-swift-with-objc.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -84,11 +86,13 @@
 				64D481F025D92BC80010E6BE /* SceneDelegate.m */,
 				64D481F225D92BC80010E6BE /* ViewController.h */,
 				64D481F325D92BC80010E6BE /* ViewController.m */,
+				64B77A3E25D9349000A26E04 /* Dummy.swift */,
 				64D481F525D92BC80010E6BE /* Main.storyboard */,
 				64D481F825D92BC80010E6BE /* Assets.xcassets */,
 				64D481FA25D92BC90010E6BE /* LaunchScreen.storyboard */,
 				64D481FD25D92BC90010E6BE /* Info.plist */,
 				64D481FE25D92BC90010E6BE /* main.m */,
+				64B77A3D25D9349000A26E04 /* mixing-swift-with-objc-Bridging-Header.h */,
 			);
 			path = "mixing-swift-with-objc";
 			sourceTree = "<group>";
@@ -132,6 +136,7 @@
 				TargetAttributes = {
 					64D481E825D92BC80010E6BE = {
 						CreatedOnToolsVersion = 12.3;
+						LastSwiftMigration = 1230;
 					};
 				};
 			};
@@ -198,6 +203,7 @@
 			files = (
 				64D481F425D92BC80010E6BE /* ViewController.m in Sources */,
 				64D481EE25D92BC80010E6BE /* AppDelegate.m in Sources */,
+				64B77A3F25D9349000A26E04 /* Dummy.swift in Sources */,
 				64D481FF25D92BC90010E6BE /* main.m in Sources */,
 				64D481F125D92BC80010E6BE /* SceneDelegate.m in Sources */,
 			);
@@ -343,6 +349,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 3KB4M4F87V;
 				INFOPLIST_FILE = "mixing-swift-with-objc/Info.plist";
@@ -352,6 +359,9 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "yurylapitsky.mixing-swift-with-objc";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "mixing-swift-with-objc/mixing-swift-with-objc-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -362,6 +372,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 3KB4M4F87V;
 				INFOPLIST_FILE = "mixing-swift-with-objc/Info.plist";
@@ -371,6 +382,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "yurylapitsky.mixing-swift-with-objc";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "mixing-swift-with-objc/mixing-swift-with-objc-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;

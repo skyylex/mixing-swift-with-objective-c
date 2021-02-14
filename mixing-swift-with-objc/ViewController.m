@@ -7,6 +7,8 @@
 
 #import "ViewController.h"
 
+@import SwiftPod;
+
 @interface ViewController ()
 
 @end
@@ -15,6 +17,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    MSWOSwiftPodClass *instance = [[MSWOSwiftPodClass alloc] init];
+    [instance doSomething];
     // Do any additional setup after loading the view.
 }
 

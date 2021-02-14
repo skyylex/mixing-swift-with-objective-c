@@ -7,10 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		17E8CB0FC2E41562CF0D42D8FB20B897 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = A250BD7445CC41C2A30D6E80B523C393 /* ReplaceMe.swift */; };
 		3E00F30D736983555C4D2693428F9DFC /* Pods-mixing-swift-with-objc-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6399F06EBEC3D668C18009765941433C /* Pods-mixing-swift-with-objc-dummy.m */; };
-		43916674F43A0A24528F7290BDAD55DA /* SwiftPod-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B19B3A74CC0927C5365B7421E3C96E9 /* SwiftPod-umbrella.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		753CA90006DF12BFDF2589C7058CC697 /* SwiftPod-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DBE6A7001501BC3CF357ACF6D6C02988 /* SwiftPod-dummy.m */; };
+		3E43F6528BF45A194CC59F2140E736FA /* SwiftPod-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8256F45172529F46C307FBDDDAC743FA /* SwiftPod-dummy.m */; };
+		43916674F43A0A24528F7290BDAD55DA /* SwiftPod-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A8E9D134C43113AB64CFAD4A1B2D97F4 /* SwiftPod-umbrella.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		89749EA8437345AD27DDFB09AA7A9AE5 /* SwiftPodClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E4C4F2507E6C1EA2557D03B60540C8 /* SwiftPodClass.swift */; };
 		B208ADD68FB6DB3E4B976CFD2F0D8132 /* Pods-mixing-swift-with-objc-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 954EEBA74E968F6E67267DB82660AF19 /* Pods-mixing-swift-with-objc-umbrella.h */; settings = {ATTRIBUTES = (Project, ); }; };
 /* End PBXBuildFile section */
 
@@ -26,23 +26,23 @@
 
 /* Begin PBXFileReference section */
 		01A014689278531C007A22538E9C19BB /* Pods-mixing-swift-with-objc.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-mixing-swift-with-objc.debug.xcconfig"; sourceTree = "<group>"; };
-		02C3EEA9EAEC0CDC9B3B3732CD431F48 /* SwiftPod.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SwiftPod.modulemap; sourceTree = "<group>"; };
-		29D005C6107F8597C9F1A3CF8775A0B9 /* SwiftPod.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = SwiftPod.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		22BDDD47D6E483D5C545591C790E46C6 /* SwiftPod.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SwiftPod.release.xcconfig; sourceTree = "<group>"; };
 		37D47A7EF70733C804503BAA0A7C055B /* libSwiftPod.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libSwiftPod.a; path = libSwiftPod.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		47C82E6ACDC27FF1E73E1FE565D1E8E5 /* Pods-mixing-swift-with-objc.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-mixing-swift-with-objc.modulemap"; sourceTree = "<group>"; };
-		4B19B3A74CC0927C5365B7421E3C96E9 /* SwiftPod-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftPod-umbrella.h"; sourceTree = "<group>"; };
 		55E6DACA921BC44AF388CE7830609318 /* Pods-mixing-swift-with-objc-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-mixing-swift-with-objc-acknowledgements.plist"; sourceTree = "<group>"; };
-		5D51CBB1D54A8F18E96F70108BE0DCAA /* SwiftPod.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SwiftPod.debug.xcconfig; sourceTree = "<group>"; };
+		62309370AD83E6C12BDD0D75DE4B632E /* SwiftPod.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SwiftPod.debug.xcconfig; sourceTree = "<group>"; };
 		6399F06EBEC3D668C18009765941433C /* Pods-mixing-swift-with-objc-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-mixing-swift-with-objc-dummy.m"; sourceTree = "<group>"; };
-		85215E277723F7837B8572D1834E429B /* SwiftPod-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftPod-prefix.pch"; sourceTree = "<group>"; };
+		8256F45172529F46C307FBDDDAC743FA /* SwiftPod-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SwiftPod-dummy.m"; sourceTree = "<group>"; };
+		854F02D6DDEF194C84393B3A42BC8210 /* SwiftPod.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = SwiftPod.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		86E4C4F2507E6C1EA2557D03B60540C8 /* SwiftPodClass.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftPodClass.swift; path = SwiftPod/Classes/SwiftPodClass.swift; sourceTree = "<group>"; };
 		8FDBC5C27D8CDDFF45473E42DF42A97D /* libPods-mixing-swift-with-objc.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-mixing-swift-with-objc.a"; path = "libPods-mixing-swift-with-objc.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		954EEBA74E968F6E67267DB82660AF19 /* Pods-mixing-swift-with-objc-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-mixing-swift-with-objc-umbrella.h"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9DECBD774734A46B94EBC33EE82BB992 /* Pods-mixing-swift-with-objc.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-mixing-swift-with-objc.release.xcconfig"; sourceTree = "<group>"; };
-		A250BD7445CC41C2A30D6E80B523C393 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = SwiftPod/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
-		DBE6A7001501BC3CF357ACF6D6C02988 /* SwiftPod-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SwiftPod-dummy.m"; sourceTree = "<group>"; };
-		E923E131641E19FA959770FB5E3D6D1A /* SwiftPod.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SwiftPod.release.xcconfig; sourceTree = "<group>"; };
-		FAE8555083C9488577429CB374823B41 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		A8E9D134C43113AB64CFAD4A1B2D97F4 /* SwiftPod-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftPod-umbrella.h"; sourceTree = "<group>"; };
+		D064E78E5096B3368D440B93170D0FC4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		DBBF55716F919B65CB513D9A7F804B18 /* SwiftPod.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SwiftPod.modulemap; sourceTree = "<group>"; };
+		E1F5100F5CA4659E5084AD2FD5AB058F /* SwiftPod-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftPod-prefix.pch"; sourceTree = "<group>"; };
 		FDAC3B84BCDA09296E3B1CE17CF35799 /* Pods-mixing-swift-with-objc-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-mixing-swift-with-objc-acknowledgements.markdown"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -79,6 +79,40 @@
 			path = "Target Support Files/Pods-mixing-swift-with-objc";
 			sourceTree = "<group>";
 		};
+		25F04335D7D4817CA2C4BD3F7DA1B494 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				DBBF55716F919B65CB513D9A7F804B18 /* SwiftPod.modulemap */,
+				8256F45172529F46C307FBDDDAC743FA /* SwiftPod-dummy.m */,
+				E1F5100F5CA4659E5084AD2FD5AB058F /* SwiftPod-prefix.pch */,
+				A8E9D134C43113AB64CFAD4A1B2D97F4 /* SwiftPod-umbrella.h */,
+				62309370AD83E6C12BDD0D75DE4B632E /* SwiftPod.debug.xcconfig */,
+				22BDDD47D6E483D5C545591C790E46C6 /* SwiftPod.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "../../Pods/Target Support Files/SwiftPod";
+			sourceTree = "<group>";
+		};
+		3419D50EDF0D92350F6209A863F7FD65 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				D064E78E5096B3368D440B93170D0FC4 /* README.md */,
+				854F02D6DDEF194C84393B3A42BC8210 /* SwiftPod.podspec */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		387F1D0F926489F2A0EAC6D888EFFE14 /* SwiftPod */ = {
+			isa = PBXGroup;
+			children = (
+				86E4C4F2507E6C1EA2557D03B60540C8 /* SwiftPodClass.swift */,
+				3419D50EDF0D92350F6209A863F7FD65 /* Pod */,
+				25F04335D7D4817CA2C4BD3F7DA1B494 /* Support Files */,
+			);
+			name = SwiftPod;
+			path = ../Libs/SwiftPod;
+			sourceTree = "<group>";
+		};
 		3DB9DDFA883587EB171EA6EC6F3AC515 /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -99,7 +133,7 @@
 		AF58BC2368111C3063BA401C05E4C656 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				FECEA58DA1FDAC76D3BCFCB082E7587C /* SwiftPod */,
+				387F1D0F926489F2A0EAC6D888EFFE14 /* SwiftPod */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
@@ -115,45 +149,11 @@
 			);
 			sourceTree = "<group>";
 		};
-		D47512CCD5870EDC13A0BA2FA732D4C7 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				02C3EEA9EAEC0CDC9B3B3732CD431F48 /* SwiftPod.modulemap */,
-				DBE6A7001501BC3CF357ACF6D6C02988 /* SwiftPod-dummy.m */,
-				85215E277723F7837B8572D1834E429B /* SwiftPod-prefix.pch */,
-				4B19B3A74CC0927C5365B7421E3C96E9 /* SwiftPod-umbrella.h */,
-				5D51CBB1D54A8F18E96F70108BE0DCAA /* SwiftPod.debug.xcconfig */,
-				E923E131641E19FA959770FB5E3D6D1A /* SwiftPod.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "../../Pods/Target Support Files/SwiftPod";
-			sourceTree = "<group>";
-		};
 		D89477F20FB1DE18A04690586D7808C4 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		E286532838D0DB6DC05E674DCDD266E2 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				FAE8555083C9488577429CB374823B41 /* README.md */,
-				29D005C6107F8597C9F1A3CF8775A0B9 /* SwiftPod.podspec */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		FECEA58DA1FDAC76D3BCFCB082E7587C /* SwiftPod */ = {
-			isa = PBXGroup;
-			children = (
-				A250BD7445CC41C2A30D6E80B523C393 /* ReplaceMe.swift */,
-				E286532838D0DB6DC05E674DCDD266E2 /* Pod */,
-				D47512CCD5870EDC13A0BA2FA732D4C7 /* Support Files */,
-			);
-			name = SwiftPod;
-			path = ../Libs/SwiftPod;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -201,7 +201,7 @@
 			buildConfigurationList = 30ED90712F5D41B4B7910A741DFFACEC /* Build configuration list for PBXNativeTarget "SwiftPod" */;
 			buildPhases = (
 				DF22BB25FBB80635CEDCAD55E4D35429 /* Headers */,
-				DCD5C888055D9B53D1C1AC60B86921BD /* Sources */,
+				9DCEE08DD3813F0FF22EE5F8DC29401E /* Sources */,
 				42766592665DB6135C98EA94E2EB0192 /* Frameworks */,
 				5132F5BA332EFF4E5934608EC00E6250 /* Copy generated compatibility header */,
 			);
@@ -278,12 +278,12 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		DCD5C888055D9B53D1C1AC60B86921BD /* Sources */ = {
+		9DCEE08DD3813F0FF22EE5F8DC29401E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				17E8CB0FC2E41562CF0D42D8FB20B897 /* ReplaceMe.swift in Sources */,
-				753CA90006DF12BFDF2589C7058CC697 /* SwiftPod-dummy.m in Sources */,
+				3E43F6528BF45A194CC59F2140E736FA /* SwiftPod-dummy.m in Sources */,
+				89749EA8437345AD27DDFB09AA7A9AE5 /* SwiftPodClass.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,59 +299,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		010F1DD867EB4A8FB2961E27B8FA19AF /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5D51CBB1D54A8F18E96F70108BE0DCAA /* SwiftPod.debug.xcconfig */;
-			buildSettings = {
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				GCC_PREFIX_HEADER = "Target Support Files/SwiftPod/SwiftPod-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
-				MODULEMAP_FILE = Headers/Public/SwiftPod/SwiftPod.modulemap;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PRIVATE_HEADERS_FOLDER_PATH = "";
-				PRODUCT_MODULE_NAME = SwiftPod;
-				PRODUCT_NAME = SwiftPod;
-				PUBLIC_HEADERS_FOLDER_PATH = "";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		1C479A69BE6769F04DB700788FD5933E /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = E923E131641E19FA959770FB5E3D6D1A /* SwiftPod.release.xcconfig */;
-			buildSettings = {
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				GCC_PREFIX_HEADER = "Target Support Files/SwiftPod/SwiftPod-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
-				MODULEMAP_FILE = Headers/Public/SwiftPod/SwiftPod.modulemap;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PRIVATE_HEADERS_FOLDER_PATH = "";
-				PRODUCT_MODULE_NAME = SwiftPod;
-				PRODUCT_NAME = SwiftPod;
-				PUBLIC_HEADERS_FOLDER_PATH = "";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
 		5891C1D0D8E50E8C7A05AE3AFCA5430D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 01A014689278531C007A22538E9C19BB /* Pods-mixing-swift-with-objc.debug.xcconfig */;
@@ -460,6 +407,59 @@
 			};
 			name = Release;
 		};
+		A9BA0594294660C9DFBF16C01845DF1D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 62309370AD83E6C12BDD0D75DE4B632E /* SwiftPod.debug.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/SwiftPod/SwiftPod-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				MODULEMAP_FILE = Headers/Public/SwiftPod/SwiftPod.modulemap;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_MODULE_NAME = SwiftPod;
+				PRODUCT_NAME = SwiftPod;
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.1;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		AFBD52129498F71DE408D97A59A119C9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 22BDDD47D6E483D5C545591C790E46C6 /* SwiftPod.release.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/SwiftPod/SwiftPod-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				MODULEMAP_FILE = Headers/Public/SwiftPod/SwiftPod.modulemap;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_MODULE_NAME = SwiftPod;
+				PRODUCT_NAME = SwiftPod;
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.1;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
 		EF1E6CBB673468AD7C533B90F8ABFAF7 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -531,8 +531,8 @@
 		30ED90712F5D41B4B7910A741DFFACEC /* Build configuration list for PBXNativeTarget "SwiftPod" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				010F1DD867EB4A8FB2961E27B8FA19AF /* Debug */,
-				1C479A69BE6769F04DB700788FD5933E /* Release */,
+				A9BA0594294660C9DFBF16C01845DF1D /* Debug */,
+				AFBD52129498F71DE408D97A59A119C9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
