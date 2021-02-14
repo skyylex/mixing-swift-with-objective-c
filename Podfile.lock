@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: Libs/SwiftPod
 
 SPEC CHECKSUMS:
-  SwiftPod: ac0dac629bb3f12bef4fbf6f8e3fdccd5eb06c2e
+  SwiftPod: 4d30ad9033d6ca49785f8dd2a1631bacfa778401
 
 PODFILE CHECKSUM: 0572444ed9e6a23aa82466c42d8352f08450aa8e
 
