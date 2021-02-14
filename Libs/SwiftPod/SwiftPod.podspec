@@ -23,15 +23,16 @@ TODO: Add long description of the pod here.
 
   s.homepage         = 'https://github.com/skyylex/SwiftPod'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  s.license          = { :type => 'MIT'}
   s.author           = { 'skyylex' => 'yury.lapitsky@tomtom.com' }
   s.source           = { :git => 'https://github.com/skyylex/SwiftPod.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '13.0'
 
   s.source_files = 'SwiftPod/Classes/**/*'
-  
+  s.swift_version = '5.0'
+
   # s.resource_bundles = {
   #   'SwiftPod' => ['SwiftPod/Assets/*.png']
   # }

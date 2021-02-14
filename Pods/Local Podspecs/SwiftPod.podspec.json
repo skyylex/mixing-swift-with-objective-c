@@ -1,0 +1,23 @@
+{
+  "name": "SwiftPod",
+  "version": "0.1.0",
+  "summary": "A short description of SwiftPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/skyylex/SwiftPod",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "skyylex": "yury.lapitsky@tomtom.com"
+  },
+  "source": {
+    "git": "https://github.com/skyylex/SwiftPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "SwiftPod/Classes/**/*",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}
