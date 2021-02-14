@@ -1,0 +1,22 @@
+{
+  "name": "MixedPod",
+  "version": "0.1.0",
+  "summary": "A short description of MixedPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/skyylex/MixedPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "skyylex": "yury.lapitsky@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/skyylex/MixedPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "Classes/**/*"
+}
