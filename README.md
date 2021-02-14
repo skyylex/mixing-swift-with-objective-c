@@ -24,3 +24,5 @@ Official documentation: https://developer.apple.com/documentation/swift/imported
 > [!] Using Swift static libraries with custom module maps is currently not supported. Please build `MixedPod` as a framework or remove the custom module map.
 
 - `use_frameworks! :linkage => :static` in Podfile makes possible to use custom module map
+    - Cocoapods doesn't generate umbrella header
+    - Automatically enables modular_headers when `use_frameworks! :linkage => :static` - https://github.com/CocoaPods/CocoaPods/issues/10021
