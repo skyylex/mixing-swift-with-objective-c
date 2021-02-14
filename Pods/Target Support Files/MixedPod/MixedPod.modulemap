@@ -1,0 +1,6 @@
+module MixedPod {
+  umbrella header "MixedPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
