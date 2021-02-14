@@ -18,3 +18,7 @@ Official documentation: https://developer.apple.com/documentation/swift/imported
 **From official documentation:**
 
 > To use the Objective-C declarations in files in the same framework target as your Swift code, you’ll need to import those files into the Objective-C umbrella header—the master header for your framework. Import your Objective-C files by configuring the umbrella header:
+
+### Custom modulemap in Cocoapod
+
+> [!] Using Swift static libraries with custom module maps is currently not supported. Please build `MixedPod` as a framework or remove the custom module map.
