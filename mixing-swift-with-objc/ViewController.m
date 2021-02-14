@@ -8,6 +8,7 @@
 #import "ViewController.h"
 
 @import SwiftPod;
+#import <ObjectiveCPod/OCPYetAnotherClass.h>
 
 @interface ViewController ()
 

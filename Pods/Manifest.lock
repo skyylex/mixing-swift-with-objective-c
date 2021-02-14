@@ -1,16 +1,21 @@
 PODS:
+  - ObjectiveCPod (0.1.0)
   - SwiftPod (0.1.0)
 
 DEPENDENCIES:
+  - ObjectiveCPod (from `Libs/ObjectiveCPod`)
   - SwiftPod (from `Libs/SwiftPod`)
 
 EXTERNAL SOURCES:
+  ObjectiveCPod:
+    :path: Libs/ObjectiveCPod
   SwiftPod:
     :path: Libs/SwiftPod
 
 SPEC CHECKSUMS:
+  ObjectiveCPod: 6cc17c416bb87c48307232b15286fcd6e64b23e2
   SwiftPod: 4d30ad9033d6ca49785f8dd2a1631bacfa778401
 
-PODFILE CHECKSUM: 0572444ed9e6a23aa82466c42d8352f08450aa8e
+PODFILE CHECKSUM: 8f8550cde6e48a25536436defb0a5a00bc74dfca
 
 COCOAPODS: 1.10.0.beta.1
