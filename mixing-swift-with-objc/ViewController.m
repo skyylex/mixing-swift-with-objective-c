@@ -9,6 +9,7 @@
 
 @import SwiftPod;
 #import <ObjectiveCPod/OCPYetAnotherClass.h>
+#import <MixedPod/MPFabulousClass.h>
 
 @interface ViewController ()
 

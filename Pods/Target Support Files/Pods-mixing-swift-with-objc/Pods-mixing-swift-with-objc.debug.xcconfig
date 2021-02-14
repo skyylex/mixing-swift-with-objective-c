@@ -1,7 +1,7 @@
 ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES
 CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = NO
 GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
-HEADER_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/ObjectiveCPod"
+HEADER_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/MixedPod" "${PODS_ROOT}/Headers/Public/ObjectiveCPod"
 LIBRARY_SEARCH_PATHS = $(inherited) "${PODS_CONFIGURATION_BUILD_DIR}/MixedPod" "${PODS_CONFIGURATION_BUILD_DIR}/ObjectiveCPod" "${PODS_CONFIGURATION_BUILD_DIR}/SwiftPod"
 OTHER_CFLAGS = $(inherited) -fmodule-map-file="${PODS_CONFIGURATION_BUILD_DIR}/SwiftPod/SwiftPod.modulemap"
 OTHER_LDFLAGS = $(inherited) -ObjC -l"MixedPod" -l"ObjectiveCPod" -l"SwiftPod" -framework "Foundation"
