@@ -1,4 +1,12 @@
-# mixing-swift-with-objective-c
+# Mixing Swift with Objective-C in Cocoapods
+
+This is a playground project that creates several Pods with different combination of languages inside:
+
+- Objective-C + Swift
+- Objective-C
+- Swift
+
+The goal of this project is to understand what's possible to mix and how using Cocoapods.
 
 ## Objective-C -> Swift
 
