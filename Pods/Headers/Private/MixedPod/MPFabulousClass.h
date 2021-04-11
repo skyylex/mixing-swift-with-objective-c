@@ -1,1 +1,1 @@
-../../../../Libs/MixedPod/Classes/MPFabulousClass.h
+../../../../Libs/MixedPod/Classes/Public/MPFabulousClass.h

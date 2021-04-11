@@ -7,7 +7,10 @@
 
 import Foundation
 
-class MPFantasticProvider {
+@objc public class MPFantasticProvider: NSObject {
+    
+    let objcClassInstance = MPFabulousClass()
+    
     func makeSomethingFantastic() {
         
     }

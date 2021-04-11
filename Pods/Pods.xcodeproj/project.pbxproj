@@ -7,88 +7,88 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0046D555F34A7369845AB9B3025912AD /* MixedPod-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 2D685850665859A65774C2E20C22C720 /* MixedPod-umbrella.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		0892EEEFE9CC677E20FF805B97390CA7 /* OCPYetAnotherClass.m in Sources */ = {isa = PBXBuildFile; fileRef = EC02C729982FD33C7370832E05BA0F03 /* OCPYetAnotherClass.m */; };
+		0892EEEFE9CC677E20FF805B97390CA7 /* OCPYetAnotherClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E45F239CE52B3819E2E1A4435A288FD /* OCPYetAnotherClass.m */; };
 		09ADE68F9C38C7533D1AE761EA7F8D4F /* Pods-mixing-swift-with-objc-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 954EEBA74E968F6E67267DB82660AF19 /* Pods-mixing-swift-with-objc-umbrella.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		0EAC525375E5D55DBBD0BE2919062FD9 /* MPFabulousClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 0417BDC0EC980B5349A4E99EC1D313B7 /* MPFabulousClass.m */; };
-		137DD65BCBAC3C781ED205C5324D4638 /* OCPYetAnotherClass.h in Headers */ = {isa = PBXBuildFile; fileRef = 4BE43442BE5F61A0FA5413567EE37CF6 /* OCPYetAnotherClass.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		3E43F6528BF45A194CC59F2140E736FA /* SwiftPod-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6145D82ACF175281EA3C68F133E2F9F8 /* SwiftPod-dummy.m */; };
-		43916674F43A0A24528F7290BDAD55DA /* SwiftPod-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8ECEA816161A6404EC72215D6FA3D3F3 /* SwiftPod-umbrella.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		49FA0BDA226CD3E34B2EF1945E378E80 /* MPFabulousClass.h in Headers */ = {isa = PBXBuildFile; fileRef = BF5DC7ADD7B0162993215E8CDB549F11 /* MPFabulousClass.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		5A998AA8D6FC313990F04427892EAE01 /* MixedPod-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 35F7568CC74EAEFBEC010079DB736819 /* MixedPod-dummy.m */; };
-		89749EA8437345AD27DDFB09AA7A9AE5 /* SwiftPodClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB430EB6921DFF263BCABCF889E90DB2 /* SwiftPodClass.swift */; };
-		A06E3B957D830F3C6FB3E935A75C1475 /* MPFantasticProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = A797F087C043FCFAD457C32DB4D1D85F /* MPFantasticProvider.swift */; };
+		137DD65BCBAC3C781ED205C5324D4638 /* OCPYetAnotherClass.h in Headers */ = {isa = PBXBuildFile; fileRef = D7C68588017811DD64D32127D8F5DC5E /* OCPYetAnotherClass.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		38B725886E7D0B951D083E9769DCB9F4 /* MPFantasticProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58C808A7AD0D33BFFD826D1CFFCC1361 /* MPFantasticProvider.swift */; };
+		3E43F6528BF45A194CC59F2140E736FA /* SwiftPod-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D3645E4F7E3E1331606A733C663756B /* SwiftPod-dummy.m */; };
+		43916674F43A0A24528F7290BDAD55DA /* SwiftPod-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 3FBEBE8CC7813B85B273A0742D60A38E /* SwiftPod-umbrella.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		43C568CA25ED97EFE3FB194347689160 /* MPFabulousClass.h in Headers */ = {isa = PBXBuildFile; fileRef = F9A8B0308949A7D696322645BD82A6D0 /* MPFabulousClass.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		620AF409E90AC3E208D9C8CCAC97CEA6 /* MPFabulousClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 528E9147596370C27C873C19B483C8C3 /* MPFabulousClass.m */; };
+		6810A0FECB5EF4FB1E8AE43E1CCCCC60 /* MixedPod-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0720402E79ED6CBE4231DE4B88DDA435 /* MixedPod-dummy.m */; };
+		89749EA8437345AD27DDFB09AA7A9AE5 /* SwiftPodClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 908F8C5345207941A5C249D78FE10ED2 /* SwiftPodClass.swift */; };
 		A22189F30442EE2E73EAE16ADC4B7752 /* Pods-mixing-swift-with-objc-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6399F06EBEC3D668C18009765941433C /* Pods-mixing-swift-with-objc-dummy.m */; };
-		B4CB56128DFF6A1EEA53CE22EB87A3CC /* ObjectiveCPod-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = CF55CC730E23229AD9C43F7C6A336D15 /* ObjectiveCPod-dummy.m */; };
+		ABC0B191A1956DCD9689FE0E9CDB0B09 /* MixedPod-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E4E5B62D875E98F68674104B7C4A57E6 /* MixedPod-umbrella.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		B4CB56128DFF6A1EEA53CE22EB87A3CC /* ObjectiveCPod-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D59D2AFB3CE6CB54ED35E16A1027396 /* ObjectiveCPod-dummy.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		15223AA8C12B94F50E9F4D343DEA418B /* PBXContainerItemProxy */ = {
+		81D61817335480663EC9C0ABEB2773BB /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 8F7BD2EE61DAE6F42D34BDCF5D089529;
 			remoteInfo = ObjectiveCPod;
 		};
-		AE15C9FE96E172846653FCD444B37306 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 23488F8D97B96570B464E382D64132EB;
-			remoteInfo = SwiftPod;
-		};
-		C9EAC4C6BD769A331100AAA2FCA1C0E4 /* PBXContainerItemProxy */ = {
+		9254374C19276E75A11D07AC9CE5A5AD /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 42CD5887C73CFF3F543467D12093F770;
 			remoteInfo = MixedPod;
 		};
+		B0C8E2A4039DB9C31CC85ACC3358776F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 23488F8D97B96570B464E382D64132EB;
+			remoteInfo = SwiftPod;
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		01A014689278531C007A22538E9C19BB /* Pods-mixing-swift-with-objc.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-mixing-swift-with-objc.debug.xcconfig"; sourceTree = "<group>"; };
-		0417BDC0EC980B5349A4E99EC1D313B7 /* MPFabulousClass.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MPFabulousClass.m; path = Classes/MPFabulousClass.m; sourceTree = "<group>"; };
-		1E9B9175DD9F6F4BE76AE9B170E550DF /* ObjectiveCPod.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ObjectiveCPod.release.xcconfig; sourceTree = "<group>"; };
-		24100B3FEE70DBAC8A05646A07F2A3D0 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		2B3BEBD384F15316938E09B7109DF094 /* SwiftPod.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = SwiftPod.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		2D685850665859A65774C2E20C22C720 /* MixedPod-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MixedPod-umbrella.h"; sourceTree = "<group>"; };
-		35F7568CC74EAEFBEC010079DB736819 /* MixedPod-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MixedPod-dummy.m"; sourceTree = "<group>"; };
-		37262ACFAC066C6184810EC88E2A8F09 /* SwiftPod.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SwiftPod.release.xcconfig; sourceTree = "<group>"; };
+		0720402E79ED6CBE4231DE4B88DDA435 /* MixedPod-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MixedPod-dummy.m"; sourceTree = "<group>"; };
+		1092C25D8B5FEDE633277E7629ABB7AF /* SwiftPod.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SwiftPod.debug.xcconfig; sourceTree = "<group>"; };
+		112E47CE894DDC1106DF532D29E7F2F5 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		37D47A7EF70733C804503BAA0A7C055B /* libSwiftPod.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libSwiftPod.a; path = libSwiftPod.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		399FFB4CF30898439980AC9532314EE4 /* ObjectiveCPod.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = ObjectiveCPod.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		46045014E100BBB2358F67FC3C95E233 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		3C47DC0F2843E36A15D5331BD8D07917 /* MixedPod.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = MixedPod.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		3FBEBE8CC7813B85B273A0742D60A38E /* SwiftPod-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftPod-umbrella.h"; sourceTree = "<group>"; };
 		47C82E6ACDC27FF1E73E1FE565D1E8E5 /* Pods-mixing-swift-with-objc.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-mixing-swift-with-objc.modulemap"; sourceTree = "<group>"; };
-		4A54CF1CBDCEECDFC056B4B70E47E1B8 /* MixedPod.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MixedPod.release.xcconfig; sourceTree = "<group>"; };
 		4A56BF6662849EB5AE36C5690CFF91B6 /* libMixedPod.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libMixedPod.a; path = libMixedPod.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		4BE43442BE5F61A0FA5413567EE37CF6 /* OCPYetAnotherClass.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCPYetAnotherClass.h; path = Classes/OCPYetAnotherClass.h; sourceTree = "<group>"; };
+		4E45F239CE52B3819E2E1A4435A288FD /* OCPYetAnotherClass.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OCPYetAnotherClass.m; path = Classes/OCPYetAnotherClass.m; sourceTree = "<group>"; };
+		528E9147596370C27C873C19B483C8C3 /* MPFabulousClass.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = MPFabulousClass.m; sourceTree = "<group>"; };
 		55E6DACA921BC44AF388CE7830609318 /* Pods-mixing-swift-with-objc-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-mixing-swift-with-objc-acknowledgements.plist"; sourceTree = "<group>"; };
-		6145D82ACF175281EA3C68F133E2F9F8 /* SwiftPod-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SwiftPod-dummy.m"; sourceTree = "<group>"; };
+		58C808A7AD0D33BFFD826D1CFFCC1361 /* MPFantasticProvider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MPFantasticProvider.swift; path = Classes/MPFantasticProvider.swift; sourceTree = "<group>"; };
+		5F8B919BADE006114ACB35CE99253F10 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		630A454F300164B27E0D5F75D3F24D63 /* MixedPod.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MixedPod.debug.xcconfig; sourceTree = "<group>"; };
 		6399F06EBEC3D668C18009765941433C /* Pods-mixing-swift-with-objc-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-mixing-swift-with-objc-dummy.m"; sourceTree = "<group>"; };
-		6658084B6DDFD4032072E33A2169FD20 /* ObjectiveCPod-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ObjectiveCPod-prefix.pch"; sourceTree = "<group>"; };
-		6DFA28FD5D8B37EC0A6490F8B49AD80D /* MixedPod.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MixedPod.modulemap; sourceTree = "<group>"; };
-		8ECEA816161A6404EC72215D6FA3D3F3 /* SwiftPod-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftPod-umbrella.h"; sourceTree = "<group>"; };
+		73BF19C8C00D0451E3000B3C66BFDF2D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		74137DA81A938B7975D5BF9D553FC207 /* ObjectiveCPod-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ObjectiveCPod-prefix.pch"; sourceTree = "<group>"; };
+		77A6CA72E01ECE8E0030DB8036AB4BF0 /* ObjectiveCPod.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ObjectiveCPod.debug.xcconfig; sourceTree = "<group>"; };
+		7892D03F806A0CBF36DF837A43ACDAFD /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		8D59D2AFB3CE6CB54ED35E16A1027396 /* ObjectiveCPod-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ObjectiveCPod-dummy.m"; sourceTree = "<group>"; };
 		8FDBC5C27D8CDDFF45473E42DF42A97D /* libPods-mixing-swift-with-objc.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-mixing-swift-with-objc.a"; path = "libPods-mixing-swift-with-objc.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		946DBA56031FA31784802BE0D41E15D8 /* ObjectiveCPod.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ObjectiveCPod.debug.xcconfig; sourceTree = "<group>"; };
+		908F8C5345207941A5C249D78FE10ED2 /* SwiftPodClass.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftPodClass.swift; path = SwiftPod/Classes/SwiftPodClass.swift; sourceTree = "<group>"; };
 		954EEBA74E968F6E67267DB82660AF19 /* Pods-mixing-swift-with-objc-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-mixing-swift-with-objc-umbrella.h"; sourceTree = "<group>"; };
+		9B05A7B8A4387798D9CD9BF12D91B34B /* SwiftPod.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SwiftPod.release.xcconfig; sourceTree = "<group>"; };
+		9D3645E4F7E3E1331606A733C663756B /* SwiftPod-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SwiftPod-dummy.m"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9DECBD774734A46B94EBC33EE82BB992 /* Pods-mixing-swift-with-objc.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-mixing-swift-with-objc.release.xcconfig"; sourceTree = "<group>"; };
-		A4E1FC0C79CF9F8070F03B3FB94AA569 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		A5CD27D815BBDEE0B0B42D944446B2DD /* SwiftPod-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftPod-prefix.pch"; sourceTree = "<group>"; };
-		A5FF576C292655C4A8BBC0D9C746D95B /* SwiftPod.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SwiftPod.debug.xcconfig; sourceTree = "<group>"; };
-		A797F087C043FCFAD457C32DB4D1D85F /* MPFantasticProvider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MPFantasticProvider.swift; path = Classes/MPFantasticProvider.swift; sourceTree = "<group>"; };
-		BF5DC7ADD7B0162993215E8CDB549F11 /* MPFabulousClass.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MPFabulousClass.h; path = Classes/MPFabulousClass.h; sourceTree = "<group>"; };
+		9DFB0295D9CDA0A1FB2AFF164FC64F90 /* ObjectiveCPod.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ObjectiveCPod.release.xcconfig; sourceTree = "<group>"; };
+		BB732E21C3C64F05C38945E8288AD320 /* MixedPod.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MixedPod.modulemap; sourceTree = "<group>"; };
+		BC9FE4697574D5D74421AA426DF31FD3 /* SwiftPod.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SwiftPod.modulemap; sourceTree = "<group>"; };
 		C132FF3BCD7BC6CE5A98464800FC004A /* libObjectiveCPod.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libObjectiveCPod.a; path = libObjectiveCPod.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		CF55CC730E23229AD9C43F7C6A336D15 /* ObjectiveCPod-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ObjectiveCPod-dummy.m"; sourceTree = "<group>"; };
-		DFAF3F9B811E5E5C82D6709B64730CCB /* MixedPod-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MixedPod-prefix.pch"; sourceTree = "<group>"; };
-		E85F414CB65164C6AF37FC92B0C56063 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		EC02C729982FD33C7370832E05BA0F03 /* OCPYetAnotherClass.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OCPYetAnotherClass.m; path = Classes/OCPYetAnotherClass.m; sourceTree = "<group>"; };
-		ED56FC13608B57D43C0E55A1EAA44973 /* SwiftPod.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SwiftPod.modulemap; sourceTree = "<group>"; };
-		EEE01D461435901B8214B26428C8DA34 /* MixedPod.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MixedPod.debug.xcconfig; sourceTree = "<group>"; };
-		F92E1A83E014D594ADF90B38BD111394 /* MixedPod.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = MixedPod.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		FB430EB6921DFF263BCABCF889E90DB2 /* SwiftPodClass.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftPodClass.swift; path = SwiftPod/Classes/SwiftPodClass.swift; sourceTree = "<group>"; };
+		CC52B572DD4AF7EB0A4BF0169178FA5C /* SwiftPod-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftPod-prefix.pch"; sourceTree = "<group>"; };
+		CE6C73D946E74137F62C720EDCF5D7FA /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		D5283E3C23CBECA99D817FD0D3459BD7 /* ObjectiveCPod.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = ObjectiveCPod.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		D7C68588017811DD64D32127D8F5DC5E /* OCPYetAnotherClass.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCPYetAnotherClass.h; path = Classes/OCPYetAnotherClass.h; sourceTree = "<group>"; };
+		E4B374A54C87F4E3DE86834399C5D1DE /* MixedPod.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MixedPod.release.xcconfig; sourceTree = "<group>"; };
+		E4E5B62D875E98F68674104B7C4A57E6 /* MixedPod-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MixedPod-umbrella.h"; sourceTree = "<group>"; };
+		EA5069AABBB459C3F0C4E08D61063D4E /* SwiftPod.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = SwiftPod.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		F9A8B0308949A7D696322645BD82A6D0 /* MPFabulousClass.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MPFabulousClass.h; sourceTree = "<group>"; };
+		FD90CB5EC703C2AE429BA828BB9CDB1C /* MixedPod-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MixedPod-prefix.pch"; sourceTree = "<group>"; };
 		FDAC3B84BCDA09296E3B1CE17CF35799 /* Pods-mixing-swift-with-objc-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-mixing-swift-with-objc-acknowledgements.markdown"; sourceTree = "<group>"; };
-		FEFE7AA8E9F5C9E61939FB7F9E028BD3 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,40 +138,15 @@
 			path = "Target Support Files/Pods-mixing-swift-with-objc";
 			sourceTree = "<group>";
 		};
-		100C71D6D0FF749A8575E969D2E3F04F /* Support Files */ = {
+		108A9C92B74967F089706D571430E9F5 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				CF55CC730E23229AD9C43F7C6A336D15 /* ObjectiveCPod-dummy.m */,
-				6658084B6DDFD4032072E33A2169FD20 /* ObjectiveCPod-prefix.pch */,
-				946DBA56031FA31784802BE0D41E15D8 /* ObjectiveCPod.debug.xcconfig */,
-				1E9B9175DD9F6F4BE76AE9B170E550DF /* ObjectiveCPod.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "../../Pods/Target Support Files/ObjectiveCPod";
-			sourceTree = "<group>";
-		};
-		29556B5BD8F9E9C87AAB86909B1EAD94 /* MixedPod */ = {
-			isa = PBXGroup;
-			children = (
-				BF5DC7ADD7B0162993215E8CDB549F11 /* MPFabulousClass.h */,
-				0417BDC0EC980B5349A4E99EC1D313B7 /* MPFabulousClass.m */,
-				A797F087C043FCFAD457C32DB4D1D85F /* MPFantasticProvider.swift */,
-				7861CCF524205B86D6AF15266ADA0133 /* Pod */,
-				88492912D244C800F0C32A3BED352803 /* Support Files */,
-			);
-			name = MixedPod;
-			path = ../Libs/MixedPod;
-			sourceTree = "<group>";
-		};
-		476E3568C7643FA096A8855E66A74E7A /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				ED56FC13608B57D43C0E55A1EAA44973 /* SwiftPod.modulemap */,
-				6145D82ACF175281EA3C68F133E2F9F8 /* SwiftPod-dummy.m */,
-				A5CD27D815BBDEE0B0B42D944446B2DD /* SwiftPod-prefix.pch */,
-				8ECEA816161A6404EC72215D6FA3D3F3 /* SwiftPod-umbrella.h */,
-				A5FF576C292655C4A8BBC0D9C746D95B /* SwiftPod.debug.xcconfig */,
-				37262ACFAC066C6184810EC88E2A8F09 /* SwiftPod.release.xcconfig */,
+				BC9FE4697574D5D74421AA426DF31FD3 /* SwiftPod.modulemap */,
+				9D3645E4F7E3E1331606A733C663756B /* SwiftPod-dummy.m */,
+				CC52B572DD4AF7EB0A4BF0169178FA5C /* SwiftPod-prefix.pch */,
+				3FBEBE8CC7813B85B273A0742D60A38E /* SwiftPod-umbrella.h */,
+				1092C25D8B5FEDE633277E7629ABB7AF /* SwiftPod.debug.xcconfig */,
+				9B05A7B8A4387798D9CD9BF12D91B34B /* SwiftPod.release.xcconfig */,
 			);
 			name = "Support Files";
 			path = "../../Pods/Target Support Files/SwiftPod";
@@ -185,15 +160,37 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		598FBF95233B309364BFFEF3C1E530E6 /* SwiftPod */ = {
+		596BE60D22790F00CCA51C7722078E37 /* MixedPod */ = {
 			isa = PBXGroup;
 			children = (
-				FB430EB6921DFF263BCABCF889E90DB2 /* SwiftPodClass.swift */,
-				91DB369B22805B8ACE418CE32EC31CEE /* Pod */,
-				476E3568C7643FA096A8855E66A74E7A /* Support Files */,
+				58C808A7AD0D33BFFD826D1CFFCC1361 /* MPFantasticProvider.swift */,
+				F4B38770FDDC3710C467E771CB87C76B /* Pod */,
+				890386AEB7EF56F0B79118F4C326BB91 /* Public */,
+				F7F941C466EE25A031D3CA012031A625 /* Support Files */,
 			);
-			name = SwiftPod;
-			path = ../Libs/SwiftPod;
+			name = MixedPod;
+			path = ../Libs/MixedPod;
+			sourceTree = "<group>";
+		};
+		5E3AF171087A1504EFED44A101F4AA6D /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				112E47CE894DDC1106DF532D29E7F2F5 /* README.md */,
+				EA5069AABBB459C3F0C4E08D61063D4E /* SwiftPod.podspec */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		602A136AA338CD058891EFAA4026903C /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				8D59D2AFB3CE6CB54ED35E16A1027396 /* ObjectiveCPod-dummy.m */,
+				74137DA81A938B7975D5BF9D553FC207 /* ObjectiveCPod-prefix.pch */,
+				77A6CA72E01ECE8E0030DB8036AB4BF0 /* ObjectiveCPod.debug.xcconfig */,
+				9DFB0295D9CDA0A1FB2AFF164FC64F90 /* ObjectiveCPod.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "../../Pods/Target Support Files/ObjectiveCPod";
 			sourceTree = "<group>";
 		};
 		65398B38683810DBD95895D8754882F0 /* Products */ = {
@@ -207,76 +204,64 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		7861CCF524205B86D6AF15266ADA0133 /* Pod */ = {
+		6F3EDC82285AC2B7C65ECA822B42C328 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				E85F414CB65164C6AF37FC92B0C56063 /* LICENSE */,
-				F92E1A83E014D594ADF90B38BD111394 /* MixedPod.podspec */,
-				24100B3FEE70DBAC8A05646A07F2A3D0 /* README.md */,
+				596BE60D22790F00CCA51C7722078E37 /* MixedPod */,
+				A55B07AFC5AE370213D31BA73B2CBA5B /* ObjectiveCPod */,
+				971DDDE73B6734850DE870E7C9DB5B59 /* SwiftPod */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		7F19C34582C5E33FE6E6085E953E0B2A /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				5F8B919BADE006114ACB35CE99253F10 /* LICENSE */,
+				D5283E3C23CBECA99D817FD0D3459BD7 /* ObjectiveCPod.podspec */,
+				73BF19C8C00D0451E3000B3C66BFDF2D /* README.md */,
 			);
 			name = Pod;
 			sourceTree = "<group>";
 		};
-		88492912D244C800F0C32A3BED352803 /* Support Files */ = {
+		890386AEB7EF56F0B79118F4C326BB91 /* Public */ = {
 			isa = PBXGroup;
 			children = (
-				6DFA28FD5D8B37EC0A6490F8B49AD80D /* MixedPod.modulemap */,
-				35F7568CC74EAEFBEC010079DB736819 /* MixedPod-dummy.m */,
-				DFAF3F9B811E5E5C82D6709B64730CCB /* MixedPod-prefix.pch */,
-				2D685850665859A65774C2E20C22C720 /* MixedPod-umbrella.h */,
-				EEE01D461435901B8214B26428C8DA34 /* MixedPod.debug.xcconfig */,
-				4A54CF1CBDCEECDFC056B4B70E47E1B8 /* MixedPod.release.xcconfig */,
+				F9A8B0308949A7D696322645BD82A6D0 /* MPFabulousClass.h */,
+				528E9147596370C27C873C19B483C8C3 /* MPFabulousClass.m */,
 			);
-			name = "Support Files";
-			path = "../../Pods/Target Support Files/MixedPod";
+			name = Public;
+			path = Classes/Public;
 			sourceTree = "<group>";
 		};
-		91DB369B22805B8ACE418CE32EC31CEE /* Pod */ = {
+		971DDDE73B6734850DE870E7C9DB5B59 /* SwiftPod */ = {
 			isa = PBXGroup;
 			children = (
-				FEFE7AA8E9F5C9E61939FB7F9E028BD3 /* README.md */,
-				2B3BEBD384F15316938E09B7109DF094 /* SwiftPod.podspec */,
+				908F8C5345207941A5C249D78FE10ED2 /* SwiftPodClass.swift */,
+				5E3AF171087A1504EFED44A101F4AA6D /* Pod */,
+				108A9C92B74967F089706D571430E9F5 /* Support Files */,
 			);
-			name = Pod;
+			name = SwiftPod;
+			path = ../Libs/SwiftPod;
 			sourceTree = "<group>";
 		};
-		9A33D76D90AE9223ACB57AD5133868D8 /* ObjectiveCPod */ = {
+		A55B07AFC5AE370213D31BA73B2CBA5B /* ObjectiveCPod */ = {
 			isa = PBXGroup;
 			children = (
-				4BE43442BE5F61A0FA5413567EE37CF6 /* OCPYetAnotherClass.h */,
-				EC02C729982FD33C7370832E05BA0F03 /* OCPYetAnotherClass.m */,
-				AE497742F635BB01B072312F3AAC7D91 /* Pod */,
-				100C71D6D0FF749A8575E969D2E3F04F /* Support Files */,
+				D7C68588017811DD64D32127D8F5DC5E /* OCPYetAnotherClass.h */,
+				4E45F239CE52B3819E2E1A4435A288FD /* OCPYetAnotherClass.m */,
+				7F19C34582C5E33FE6E6085E953E0B2A /* Pod */,
+				602A136AA338CD058891EFAA4026903C /* Support Files */,
 			);
 			name = ObjectiveCPod;
 			path = ../Libs/ObjectiveCPod;
-			sourceTree = "<group>";
-		};
-		AE497742F635BB01B072312F3AAC7D91 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				A4E1FC0C79CF9F8070F03B3FB94AA569 /* LICENSE */,
-				399FFB4CF30898439980AC9532314EE4 /* ObjectiveCPod.podspec */,
-				46045014E100BBB2358F67FC3C95E233 /* README.md */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		CA04653A7747DCBEA0192B0A0FA9E9CB /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				29556B5BD8F9E9C87AAB86909B1EAD94 /* MixedPod */,
-				9A33D76D90AE9223ACB57AD5133868D8 /* ObjectiveCPod */,
-				598FBF95233B309364BFFEF3C1E530E6 /* SwiftPod */,
-			);
-			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				CA04653A7747DCBEA0192B0A0FA9E9CB /* Development Pods */,
+				6F3EDC82285AC2B7C65ECA822B42C328 /* Development Pods */,
 				D89477F20FB1DE18A04690586D7808C4 /* Frameworks */,
 				65398B38683810DBD95895D8754882F0 /* Products */,
 				526BB9F761A9ADFF825C32565CA38BC9 /* Targets Support Files */,
@@ -290,23 +275,47 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		F4B38770FDDC3710C467E771CB87C76B /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				7892D03F806A0CBF36DF837A43ACDAFD /* LICENSE */,
+				3C47DC0F2843E36A15D5331BD8D07917 /* MixedPod.podspec */,
+				CE6C73D946E74137F62C720EDCF5D7FA /* README.md */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		F7F941C466EE25A031D3CA012031A625 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				BB732E21C3C64F05C38945E8288AD320 /* MixedPod.modulemap */,
+				0720402E79ED6CBE4231DE4B88DDA435 /* MixedPod-dummy.m */,
+				FD90CB5EC703C2AE429BA828BB9CDB1C /* MixedPod-prefix.pch */,
+				E4E5B62D875E98F68674104B7C4A57E6 /* MixedPod-umbrella.h */,
+				630A454F300164B27E0D5F75D3F24D63 /* MixedPod.debug.xcconfig */,
+				E4B374A54C87F4E3DE86834399C5D1DE /* MixedPod.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "../../Pods/Target Support Files/MixedPod";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		4BD29181893BB8F067E757CDD40FFB5C /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				0046D555F34A7369845AB9B3025912AD /* MixedPod-umbrella.h in Headers */,
-				49FA0BDA226CD3E34B2EF1945E378E80 /* MPFabulousClass.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		75C29E5283C000D8FA91C0AA44831451 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				137DD65BCBAC3C781ED205C5324D4638 /* OCPYetAnotherClass.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		834F61984C62E40D579DB6B51BD94B9E /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ABC0B191A1956DCD9689FE0E9CDB0B09 /* MixedPod-umbrella.h in Headers */,
+				43C568CA25ED97EFE3FB194347689160 /* MPFabulousClass.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -340,9 +349,9 @@
 			buildRules = (
 			);
 			dependencies = (
-				4A9D0F7932BADBC3B3198FF9A134DB61 /* PBXTargetDependency */,
-				F9B2B2465C64D6A1CF818AD9700E2E24 /* PBXTargetDependency */,
-				7497409A5BE6556150684FD02F5B9663 /* PBXTargetDependency */,
+				DBBF07CF9190B2A78BB0945309587598 /* PBXTargetDependency */,
+				2E9DBBBACCD2EBF3914DC85EA1A1A629 /* PBXTargetDependency */,
+				7820A1A9E3EB7360CB13C33EFDA58106 /* PBXTargetDependency */,
 			);
 			name = "Pods-mixing-swift-with-objc";
 			productName = "Pods-mixing-swift-with-objc";
@@ -371,8 +380,8 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 61F083743D28846AB4E43790289832A5 /* Build configuration list for PBXNativeTarget "MixedPod" */;
 			buildPhases = (
-				4BD29181893BB8F067E757CDD40FFB5C /* Headers */,
-				4FEEEB125F3EA6FEA527DC53CC2E58A1 /* Sources */,
+				834F61984C62E40D579DB6B51BD94B9E /* Headers */,
+				3FF5DE0283A2E77615890EEC1880F87E /* Sources */,
 				C1D4E7689953CDA92A21B9FC0F2D4D70 /* Frameworks */,
 				F47E0AA916D1B9C993F209D69A1F9AE9 /* Copy generated compatibility header */,
 			);
@@ -484,21 +493,21 @@
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		3FF5DE0283A2E77615890EEC1880F87E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6810A0FECB5EF4FB1E8AE43E1CCCCC60 /* MixedPod-dummy.m in Sources */,
+				620AF409E90AC3E208D9C8CCAC97CEA6 /* MPFabulousClass.m in Sources */,
+				38B725886E7D0B951D083E9769DCB9F4 /* MPFantasticProvider.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		47E59CDFA34F3E907BD4BF1A2353B6C9 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				A22189F30442EE2E73EAE16ADC4B7752 /* Pods-mixing-swift-with-objc-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		4FEEEB125F3EA6FEA527DC53CC2E58A1 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				5A998AA8D6FC313990F04427892EAE01 /* MixedPod-dummy.m in Sources */,
-				0EAC525375E5D55DBBD0BE2919062FD9 /* MPFabulousClass.m in Sources */,
-				A06E3B957D830F3C6FB3E935A75C1475 /* MPFantasticProvider.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -523,30 +532,30 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		4A9D0F7932BADBC3B3198FF9A134DB61 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = MixedPod;
-			target = 42CD5887C73CFF3F543467D12093F770 /* MixedPod */;
-			targetProxy = C9EAC4C6BD769A331100AAA2FCA1C0E4 /* PBXContainerItemProxy */;
-		};
-		7497409A5BE6556150684FD02F5B9663 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = SwiftPod;
-			target = 23488F8D97B96570B464E382D64132EB /* SwiftPod */;
-			targetProxy = AE15C9FE96E172846653FCD444B37306 /* PBXContainerItemProxy */;
-		};
-		F9B2B2465C64D6A1CF818AD9700E2E24 /* PBXTargetDependency */ = {
+		2E9DBBBACCD2EBF3914DC85EA1A1A629 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = ObjectiveCPod;
 			target = 8F7BD2EE61DAE6F42D34BDCF5D089529 /* ObjectiveCPod */;
-			targetProxy = 15223AA8C12B94F50E9F4D343DEA418B /* PBXContainerItemProxy */;
+			targetProxy = 81D61817335480663EC9C0ABEB2773BB /* PBXContainerItemProxy */;
+		};
+		7820A1A9E3EB7360CB13C33EFDA58106 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = SwiftPod;
+			target = 23488F8D97B96570B464E382D64132EB /* SwiftPod */;
+			targetProxy = B0C8E2A4039DB9C31CC85ACC3358776F /* PBXContainerItemProxy */;
+		};
+		DBBF07CF9190B2A78BB0945309587598 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = MixedPod;
+			target = 42CD5887C73CFF3F543467D12093F770 /* MixedPod */;
+			targetProxy = 9254374C19276E75A11D07AC9CE5A5AD /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		2728A05AC57CEEB0983F234C42CDED37 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EEE01D461435901B8214B26428C8DA34 /* MixedPod.debug.xcconfig */;
+			baseConfigurationReference = 630A454F300164B27E0D5F75D3F24D63 /* MixedPod.debug.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -596,7 +605,7 @@
 		};
 		4A7B71EF844A9F175B0069E39AD9BFDC /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1E9B9175DD9F6F4BE76AE9B170E550DF /* ObjectiveCPod.release.xcconfig */;
+			baseConfigurationReference = 9DFB0295D9CDA0A1FB2AFF164FC64F90 /* ObjectiveCPod.release.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -645,7 +654,7 @@
 		};
 		7D6ED60EC661FE989206D1F67CF25A33 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 946DBA56031FA31784802BE0D41E15D8 /* ObjectiveCPod.debug.xcconfig */;
+			baseConfigurationReference = 77A6CA72E01ECE8E0030DB8036AB4BF0 /* ObjectiveCPod.debug.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -731,7 +740,7 @@
 		};
 		A9BA0594294660C9DFBF16C01845DF1D /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A5FF576C292655C4A8BBC0D9C746D95B /* SwiftPod.debug.xcconfig */;
+			baseConfigurationReference = 1092C25D8B5FEDE633277E7629ABB7AF /* SwiftPod.debug.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -757,7 +766,7 @@
 		};
 		AFBD52129498F71DE408D97A59A119C9 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 37262ACFAC066C6184810EC88E2A8F09 /* SwiftPod.release.xcconfig */;
+			baseConfigurationReference = 9B05A7B8A4387798D9CD9BF12D91B34B /* SwiftPod.release.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -849,7 +858,7 @@
 		};
 		EFCA2B89C4B03FEEBE81CFECAF9920DB /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4A54CF1CBDCEECDFC056B4B70E47E1B8 /* MixedPod.release.xcconfig */;
+			baseConfigurationReference = E4B374A54C87F4E3DE86834399C5D1DE /* MixedPod.release.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				CODE_SIGN_IDENTITY = "iPhone Developer";

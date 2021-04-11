@@ -2,6 +2,7 @@
   "name": "MixedPod",
   "version": "0.1.0",
   "summary": "A short description of MixedPod.",
+  "swift_versions": "5.0",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/skyylex/MixedPod",
   "license": {
@@ -18,5 +19,13 @@
   "platforms": {
     "ios": "13.0"
   },
-  "source_files": "Classes/**/*"
+  "source_files": [
+    "Classes/**/*.{h,m,swift}"
+  ],
+  "public_header_files": "Classes/**/*.h",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "swift_version": "5.0"
 }

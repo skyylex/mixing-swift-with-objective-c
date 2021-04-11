@@ -1,7 +1,7 @@
 
 import Foundation
 
-@objc(MSWOSwiftPodClass) public class SwiftPodClass: NSObject {
+@objc(SPSwiftPodClass) public class SwiftPodClass: NSObject {
     @objc public func doSomething() {
         
     }

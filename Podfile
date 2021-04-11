@@ -1,3 +1,5 @@
+podspec :path => 'Libs/SwiftPod/SwiftPod.podspec'
+
 platform :ios, '13.0'
 
 target 'mixing-swift-with-objc' do

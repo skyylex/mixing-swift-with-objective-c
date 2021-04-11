@@ -6,10 +6,10 @@
 //
 
 #import "ViewController.h"
+#import <ObjectiveCPod/OCPYetAnotherClass.h>
 
 @import SwiftPod;
-#import <ObjectiveCPod/OCPYetAnotherClass.h>
-#import <MixedPod/MPFabulousClass.h>
+@import MixedPod;
 
 @interface ViewController ()
 
@@ -20,8 +20,12 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    MSWOSwiftPodClass *instance = [[MSWOSwiftPodClass alloc] init];
-    [instance doSomething];
+    NSLog(@"%@", [[OCPYetAnotherClass alloc] init]);
+    NSLog(@"%@", [[SPSwiftPodClass alloc] init]);
+    
+    NSLog(@"%@", [[MPFantasticProvider alloc] init]);
+    NSLog(@"%@", [[MPFabulousClass alloc] init]);
+    
     // Do any additional setup after loading the view.
 }
 

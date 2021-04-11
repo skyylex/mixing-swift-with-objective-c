@@ -18,5 +18,7 @@
   "platforms": {
     "ios": "13.0"
   },
-  "source_files": "Classes/**/*"
+  "source_files": [
+    "Classes/**/*.{h,m}"
+  ]
 }
